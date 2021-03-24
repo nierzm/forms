@@ -1,0 +1,46 @@
+.container {
+    background-color: aliceblue;
+    width: 500px;
+    height: 450px;
+    margin: auto;
+    padding: 0px;
+}
+body{
+   margin: 0px auto;
+   text-align: center;
+}
+h1{
+    padding: 20px;
+    font-size: 25px;
+}
+form{
+    display: block;
+    text-align: left;
+    font-size: 18px;
+    padding-left: 100px;
+}
+#dateFrom{
+    display: block;
+    text-align: center;
+    margin: 5px 0px 10px 20px;
+    height: 20px;
+}
+#dateTo{
+    display: block;
+    text-align: center;
+    margin: 5px 0px 20px 20px;
+    height: 20px;
+}
+#name{
+    display: block;
+    margin: 5px 0px 10px 20px;
+    height: 20px;
+    width: 200px;
+}
+#submit{
+    margin-left: 100px;
+    margin-top: 30px;
+    text-align: center;
+    width: 100px;
+    height: 35px;
+}
